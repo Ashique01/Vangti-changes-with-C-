@@ -1,0 +1,9 @@
+G:\C# 2024\Lecture Demos\Vangti\Vangti\bin\Debug\Vangti.exe.config
+G:\C# 2024\Lecture Demos\Vangti\Vangti\bin\Debug\Vangti.exe
+G:\C# 2024\Lecture Demos\Vangti\Vangti\bin\Debug\Vangti.pdb
+G:\C# 2024\Lecture Demos\Vangti\Vangti\obj\Debug\Vangti.csprojResolveAssemblyReference.cache
+G:\C# 2024\Lecture Demos\Vangti\Vangti\obj\Debug\Vangti.Form1.resources
+G:\C# 2024\Lecture Demos\Vangti\Vangti\obj\Debug\Vangti.Properties.Resources.resources
+G:\C# 2024\Lecture Demos\Vangti\Vangti\obj\Debug\Vangti.csproj.GenerateResource.Cache
+G:\C# 2024\Lecture Demos\Vangti\Vangti\obj\Debug\Vangti.exe
+G:\C# 2024\Lecture Demos\Vangti\Vangti\obj\Debug\Vangti.pdb
